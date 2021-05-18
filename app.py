@@ -1,3 +1,5 @@
+# https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/
+
 import dash
 import dash_html_components as html
 import dash_core_components as dcc

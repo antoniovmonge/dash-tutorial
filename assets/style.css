@@ -603,7 +603,7 @@ a {
  .side-by-side-right{
     display: inline-block;
     width: 48%;
-    float:right;
+    float: right;
   }
   .div-for-charts{
     margin: 0px;
